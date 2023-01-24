@@ -3,7 +3,7 @@ import speech_recognition as sr
 import pyttsx3
 
 # API key for OpenAI
-openai.api_key = "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"
+openai.api_key = "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" #Put your own API Key here
 
 # Model engine to use for response generation
 model_engine = "text-davinci-002"
